@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Class Assignment - Form</title>
+</head>
+<body>
+
+<h1><mark>Class Assignment - Form </h1>
+
+<label for="firstName">First Name:</label>
+        <input type="text" id="firstName" name="firstName" required placeholder="enter your first name"><br><br>
+        
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" name="lastName" required placeholder="enter your second name"><br><br>
+        
+        <label for="country">Country:</label>
+        <input type="text" id="country" name="country" required placeholder="enter your country"><br><br>
+        
+       
+
+Interest (Choose all that apply):<input Type="checkbox"> Football 
+<input Type="checkbox"> Swimming 
+<input Type="checkbox"> Music <br><br>
+
+ <input type="submit" value="Submit">
+
+
+</form>
